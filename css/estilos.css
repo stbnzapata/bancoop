@@ -120,4 +120,20 @@
     .seccion2 .seccion3 .article .contenedor-articulo .contenedor-texto {
       background: linear-gradient(to top, #e2e2e2 0%, #fefefe 100%); }
 
+.pie {
+  background: #232323;
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  padding: 1.5%; }
+
+.text1 {
+  margin-bottom: 0;
+  margin-top: 0; }
+
+footer {
+  margin-top: 6px; }
+
 /*# sourceMappingURL=estilos.css.map */
